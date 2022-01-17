@@ -1,0 +1,10 @@
+com\kgisl\junit\studentInfo\CreateStudentsDataDrivenTest.class
+com\kgisl\testbase\TestBase.class
+com\kgisl\junit\studentInfo\TagsTest.class
+com\kgisl\utils\TestUtils.class
+com\kgisl\utils\ReusableSpecification.class
+com\kgisl\junit\studentInfo\StudentCRUDTest.class
+com\kgisl\cucumber\serenity\StudentSerenitySteps2.class
+com\kgisl\cucumber\serenity\StudentSerenitySteps.class
+com\kgisl\junit\studentInfo\StudentCRUDTest2.class
+com\kgisl\junit\studentInfo\FirstSerenityTest.class

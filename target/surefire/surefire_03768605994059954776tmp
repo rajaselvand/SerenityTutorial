@@ -1,0 +1,6 @@
+#surefire_0
+#Mon Jan 17 12:41:44 IST 2022
+tags=studentfeature\:NEGATIVE,studentfeature\:SMOKE
+user.dir=D\:\\EclipseWorkspace\\SerenityRestAssured\\SerenitySample
+localRepository=D\:\\MAVEN_REPO
+basedir=D\:\\EclipseWorkspace\\SerenityRestAssured\\SerenitySample
